@@ -1,2 +1,2 @@
-from pdb import PDB
-from xyz import XYZ
+from ichor.files.pdb_file import PDB
+from ichor.files.xyz import XYZ

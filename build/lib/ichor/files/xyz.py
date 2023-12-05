@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import Union
 
+
 class XYZ:
     """A class which wraps around a .xyz file .
 
